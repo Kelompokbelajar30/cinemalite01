@@ -1,0 +1,66 @@
+.container > p{
+    text-align: center;
+}
+nav{
+    background-color: #741102;
+}
+nav img{
+    margin-top: 25px;
+    margin-left: 5px;
+}
+.brend cite{
+    font-family:edwardian script itc;
+    font-size: 50px;
+    color: #b78c56;
+}
+.brend .lite{
+    font-family: Perpetua Titling MT;
+} 
+.container p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+
+
+
+nav .form-control {
+    padding: 10px 150px 10px 20px;
+    border-radius: 15px;
+    background-color: rgb(234, 235, 235);
+}
+.list{
+    background-color: rgb(234, 235, 235);
+}
+ul li a{
+    color: #741102;
+    margin: 10px;
+    
+}
+ul li a:hover{
+    color: #b78c56;
+}
+.footer{
+    background-color: #741102;
+    padding:10px 30px 50px 30px;
+}
+.navbar-brand{
+    color: rgb(234, 235, 235);
+    margin: 0;
+    font-size: 10px;
+}
+.navbar-brand:hover{
+    color: #b78c56;
+}
+.footer img{
+    width: 20px;
+    margin: 0;
+}
+.text p{
+    color: rgb(234, 235, 235) ;
+    font-size: 12px;
+}
+.footer{
+    margin-top: 500px;
+}
